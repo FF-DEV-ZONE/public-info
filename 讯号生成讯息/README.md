@@ -18,7 +18,7 @@
     - BULLISH: isTurningToLn == true
     - BEARISH: isTurningToSh == true
     - source: FORECAST_MODEL_MULTI_LOGIC (isTurningToLn, isTurningToSh)
-    - data: [link](view-source:http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh)
+    - data: [link](http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh)
   - ~~HK50.35~~
 
 ---
