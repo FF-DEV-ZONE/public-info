@@ -7,7 +7,7 @@
     - BEARISH: 中多/互空
   - ~~HK50.35~~
 - TURNING_POINT
-  > HK50.35
+  - HK50.35
 - TREND_TO_HOLD
   - HK50.70 @20241108
   - ~~HK50.33~~
