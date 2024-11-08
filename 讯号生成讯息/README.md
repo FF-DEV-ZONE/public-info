@@ -10,8 +10,10 @@
 - TURNING_POINT
   - HK50.35
     - source: FORECAST_MODEL (isResisUp_20241029, isResisDn_20241029)
+    - [Live Data](http://192.168.25.201:3020/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isResisUp_20241029,isResisDn_20241029), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isResisUp_20241029,isResisDn_20241029)
 - TREND_TO_HOLD
   - HK50.70 @20241108
+    - FORECAST_MODEL_MULTI_LOGIC (isKeepTrendLn, isKeepTrendSh => trendToHoldDir)
     - [Live Data](http://192.168.25.201:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isKeepTrendLn,isKeepTrendSh,trendToHoldDir), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isKeepTrendLn,isKeepTrendSh,trendToHoldDir)
   - ~~HK50.33~~
 - ACTIVE_BUY_SELL_DIRECTION
