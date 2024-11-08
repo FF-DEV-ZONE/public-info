@@ -6,7 +6,8 @@
 - TURNING_POINT
   > HK50.35
 - TREND_TO_HOLD
-  > HK50.33
+  - HK50.70 @20241108
+  - ~~HK50.33~~
 
 ### Tradingview 编码对应表
 | 编码 | 描述 | CODE | 晚上 | CODE |
