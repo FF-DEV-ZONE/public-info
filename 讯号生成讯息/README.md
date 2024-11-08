@@ -6,6 +6,7 @@
     - BULLISH: 中空/互多
     - BEARISH: 中多/互空
     - source: FORECAST_MODEL (isHedgedShPosition, isHedgedLnPosition, isTrsLn, isTrsSh)
+    - - [Live Data](http://192.168.25.201:3020/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition,isTrsLn,isTrsSh), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition,isTrsLn,isTrsSh)
   - ~~HK50.35~~
 - TURNING_POINT
   - HK50.35
