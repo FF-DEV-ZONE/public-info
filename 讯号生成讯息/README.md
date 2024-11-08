@@ -5,9 +5,11 @@
   - HK50.21 @20241108
     - BULLISH: 中空/互多
     - BEARISH: 中多/互空
+    - source: FORECAST_MODEL (isHedgedShPosition, isHedgedLnPosition, isTrsLn, isTrsSh)
   - ~~HK50.35~~
 - TURNING_POINT
   - HK50.35
+    - source: FORECAST_MODEL (isResisUp_20241029, isResisDn_20241029)
 - TREND_TO_HOLD
   - HK50.70 @20241108
   - ~~HK50.33~~
