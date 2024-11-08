@@ -13,6 +13,13 @@
 - TREND_TO_HOLD
   - HK50.70 @20241108
   - ~~HK50.33~~
+- ACTIVE_BUY_SELL_DIRECTION
+  - HK50.70 @20241108
+    - BULLISH: isTurningToLn == true
+    - BEARISH: isTurningToSh == true
+    - source: FORECAST_MODEL_MULTI_LOGIC (isTurningToLn, isTurningToSh)
+    - data: [link](view-source:http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh)
+  - ~~HK50.35~~
 
 ---
 ### Tradingview 编码对应表
