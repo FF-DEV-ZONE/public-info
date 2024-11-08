@@ -2,7 +2,8 @@
 
 ### 讯号对应数据
 - TREND
-  > HK50.35
+  - HK50.21 (中多/中空/互多/互空) @20241108
+  - ~~HK50.35~~
 - TURNING_POINT
   > HK50.35
 - TREND_TO_HOLD
