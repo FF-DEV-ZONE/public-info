@@ -6,24 +6,24 @@
     - BULLISH: 中空/互多
     - BEARISH: 中多/互空
     - source: FORECAST_MODEL (isHedgedShPosition, isHedgedLnPosition, isTrsLn, isTrsSh)
-    - - [Live Data](http://192.168.25.201:3020/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition,isTrsLn,isTrsSh), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition,isTrsLn,isTrsSh)
+    - - [Live Data](http://192.168.25.240:3020/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition,isTrsLn,isTrsSh), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition,isTrsLn,isTrsSh)
   - ~~HK50.35~~
 - TURNING_POINT
   - HK50.35
     - source: FORECAST_MODEL (isResisUp_20241029, isResisDn_20241029)
-    - [Live Data](http://192.168.25.201:3020/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isResisUp_20241029,isResisDn_20241029), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isResisUp_20241029,isResisDn_20241029)
+    - [Live Data](http://192.168.25.240:3020/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isResisUp_20241029,isResisDn_20241029), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL?header=tsFm,tsFmF,isResisUp_20241029,isResisDn_20241029)
 - TREND_TO_HOLD
   - HK50.70 @20241108
     - FORECAST_MODEL_MULTI_LOGIC (isKeepTrendLn, isKeepTrendSh => trendToHoldDir)
-    - [Live Data](http://192.168.25.201:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isKeepTrendLn,isKeepTrendSh,trendToHoldDir), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isKeepTrendLn,isKeepTrendSh,trendToHoldDir)
+    - [Live Data](http://192.168.25.240:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isKeepTrendLn,isKeepTrendSh,trendToHoldDir), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isKeepTrendLn,isKeepTrendSh,trendToHoldDir)
   - ~~HK50.33~~
 - ACTIVE_BUY_SELL_DIRECTION
   - HK50.70 @20241108
     - BULLISH: isTurningToLn == true
     - BEARISH: isTurningToSh == true
     - source: FORECAST_MODEL_MULTI_LOGIC (isTurningToLn, isTurningToSh)
-    - [Live Data](http://192.168.25.201:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh)
-    - <a href="http://192.168.25.201:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh" target="_blank">View Data</a>
+    - [Live Data](http://192.168.25.240:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh)
+    - <a href="http://192.168.25.240:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh" target="_blank">View Data</a>
   - ~~HK50.35~~
 
 ---
