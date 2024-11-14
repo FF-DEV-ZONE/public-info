@@ -25,15 +25,14 @@
     - [Live Data](http://192.168.25.240:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh)
     - <a href="http://192.168.25.240:3020/symbolmonitor/infolist/STRUCTURE_ZYJ_GROUP?header=tsFm,tsFmF,isTurningToLn,isTurningToSh" target="_blank">View Data</a>
   - ~~HK50.35~~
-- TREND_W
+- TREND_W (牛熊計算的 TREND)
   - HK50.80 @20241114
     - BULLISH: 中空/互多 (isHedgedShPosition == true)
     - BEARISH: 中多/互空 (isHedgedLnPosition == true)
     - source: FORECAST_MODEL_MULTI_LOGIC (isHedgedShPosition, isHedgedLnPosition)
     - - [Live Data](http://192.168.25.240:3020/symbolmonitor/infolist/FORECAST_MODEL_MULTI_LOGIC?symbol=HSI_WARRANT&header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL_MULTI_LOGIC?symbol=HSI_WARRANT&header=tsFm,tsFmF,isHedgedShPosition,isHedgedLnPosition)
-  - ~~HK50.35~~
-- TURNING_POINT_W
-  - HK50.35
+- TURNING_POINT_W (牛熊計算的 TURNING_POINT)
+  - HK50.80 @20241114
     - source: FORECAST_MODEL_MULTI_LOGIC (isResisUp, isResisDn)
     - [Live Data](http://192.168.25.240:3020/symbolmonitor/infolist/FORECAST_MODEL_MULTI_LOGIC?symbol=HSI_WARRANT&header=tsFm,tsFmF,isResisUp,isResisDn), [DEV Data](http://192.168.25.201:3050/symbolmonitor/infolist/FORECAST_MODEL_MULTI_LOGIC?symbol=HSI_WARRANT&header=tsFm,tsFmF,isResisUp,isResisDn)
 
