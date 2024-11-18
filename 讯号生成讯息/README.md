@@ -43,6 +43,8 @@
 | 编码 | 描述 | CODE | 晚上 | CODE |
 | --- | --- | --- | --- | --- |
 |HK50.21| ETF, 期貨折溢價排列計算 | FORECAST_MODEL |  |  |
+|HK50.37| 打出不同行業的多空的方向 | INDUSTRY_SECTOR_PATTERN |  |  |
+|HK50.38| 以行業比重計算多空的方向 | INDUSTRY_SECTOR_PATTERN_SUMMARY |  |  |
 |HK50.40| 港股通接近恒生指数 | HSI_GGT_HSI_LIKE_EI | 港股盤後 | US_PRE_MARKET |
 |HK50.41| HSI证券AH股 | HSI_SECURITY_EI | 美股 (CD, IT, 綜合) | US_MARKET_COMPOSITE |
 |HK50.42| HSI非银港元 | HSI_NON_BANK_EI | MCHI, FXI, YANG, YINN vs HXC | US_MARKET_ZGG_ETF |
