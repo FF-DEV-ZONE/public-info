@@ -22,51 +22,59 @@ Source from: [https://www.hsi.com.hk/index360/schi/indexes/analysis?id=00001.00]
 - 金融业 (Financials) 32.96%
   | 行業 | 權重 |
   | --- | --- |
-  | 银行 (Banks)     | 20.85% |       
+  | **银行 (Banks)**     | 20.85% |       
   | 保险 (Insurance)     | 9.02%  |       
   | 其他金融 (Other Financials)  | 3.09% |        
 
 - 非必需性消费  (Consumer Discretionary)  28.89%
   | 行業 | 權重 |
   | --- | --- |
-  | 专业零售 (Specialty Retail) | 18.40% |
+  | *专业零售 (Specialty Retail)* | 18.40% |
   | - 线上零售商 | 18.16% |
   | - 汽车零售商 | 0.12% |
   | - 其他零售商 | 0.12% |
-  | 汽车 (Automobiles) | 4.03% |
-  | 旅游及消闲设施 (Travel & Leisure) | 2.35% |
+  | *汽车 (Automobiles)* | 4.03% |
+  | *旅游及消闲设施 (Travel & Leisure)* | 2.35% |
   |  - 赌场及博彩 | 0.99% |
   |  - 旅游及观光 | 0.69% |
   |  - 公共运输 | 0.43% |
   |  - 餐饮 | 0.25% |
-  | 家庭电器及用品 (Household Goods & Electronics) |   1.95%                 |
-  | 纺织及服饰 (Textiles & Clothing)    |    1.68%             |
+  | *家庭电器及用品 (Household Goods & Electronics)* |   1.95%                 |
+  | *纺织及服饰 (Textiles & Clothing)*    |    1.68%             |
   |  - 服装 | 1.36% |
   |  - 鞋类 | 0.32% |
-  | 媒体及娱乐 (Media & Entertainment)  |      0.48%             |
+  | *媒体及娱乐 (Media & Entertainment)*  |      0.48%             |
 
 - 资讯科技业      14.30%    (Information Technology)
-  - 软件服务      8.45%          (Software & Services)
-    - 数码解决方案服务  7.75%
-    - 游戏软件  0.69% 
-  - 资讯科技器材      4.92%      (IT Hardware)
-    - 电讯设备 4.29%
-    - 电脑及周边器材 0.63%
-  - 半导体    0.93%              (Semiconductors)          
+  | 行業 | 權重 |
+  | --- | --- |
+  | *软件服务 (Software & Services)* |    8.45%          |
+  |  - 数码解决方案服务  | 7.75% |
+  |  - 游戏软件 | 0.69%  |
+  | *资讯科技器材 (IT Hardware)*  |   4.92%      |
+  |  - 电讯设备 | 4.29% |
+  |  - 电脑及周边器材 | 0.63% |
+  | *半导体 (Semiconductors)*          |   0.93%              |
 
 - 能源业      4.92%     (Energy)
-  - 石油及天然气      4.02%                 (Oil & Gas)
-  - 煤炭      0.90%                 (Coal)
+  | 行業 | 權重 |
+  | --- | --- |
+  | *石油及天然气 (Oil & Gas)* |    4.02%                 |
+  | *煤炭 (Coal)* |     0.90%                 |
 
 - 地产建筑业      4.36%     (Properties & Construction)
-  - 地产      4.36%     (Properties)
-    - 地产发展商 3.02%
-    - 房地产投资信托 0.76%
-    - 地产投资 0.40%
-    - 物业服务及管理 0.18%
+  | 行業 | 權重 |
+  | --- | --- |
+  | *地产 (Properties)* |      4.36%    |
+  |  - 地产发展商  | 3.02% | 
+  |  - 房地产投资信托 |  0.76% | 
+  |  - 地产投资 |  0.40% | 
+  |  - 物业服务及管理 |  0.18% | 
 
 - 电讯业       3.94%    (Telecommunications)
-  - 电讯      3.94%     (Telecommunications)
+  | 行業 | 權重 |
+  | --- | --- |
+  | *电讯 (Telecommunications)* |     3.94%     |
 
 - 公用事业        3.16%     (Utilities)
   - 公用事业      3.16%     (Utilities)
