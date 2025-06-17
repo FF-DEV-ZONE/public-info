@@ -1,13 +1,13 @@
 # AI Signal
 
 AI Signal (ID3) URL(DEBUG):
-> http://192.168.25.201:3051/data/agg/id3
+> http://192.168.25.201:3051/data/agg/id3a
 
 AI Signal (ID3) URL(TEST):
-> http://192.168.25.201:3100/data/agg/id3
+> http://192.168.25.201:3100/data/agg/id3a
 
 AI Signal (ID3) URL(LIVE):
-> http://192.168.25.240:3020/data/agg/id3
+> http://192.168.25.240:3020/data/agg/id3a
 
 DESC:
 ```
