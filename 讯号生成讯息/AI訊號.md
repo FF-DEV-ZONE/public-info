@@ -28,7 +28,8 @@ AI Signal (ID3) URL(LIVE):
 | O       | 'upResisList'       | 向上阻力的指數              |      
 | P       | 'dnResisList'       | 向下阻力的指數              |      
 | Q       | 'isMktCapLargeDiff' | 大小盘是否有大差異            |        
-| R       | 'mktCapD7SurgeList' | 大小盘有大差異且放量的SYMBOL    |              
+| R       | 'mktCapPremD7SurgeList' | 有差異且放量的溢价SYMBOL    |              
+| S       | 'mktCapDiscD7SurgeList' | 有差異且放量的折价SYMBOL    |              
 
 
 ### col(C,D,E,F,G):
