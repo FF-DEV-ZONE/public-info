@@ -54,7 +54,7 @@
 | HK | HKEX:2828 | |
 | HK | HKEX:7288 | |
 | HK | HKEX:7588 | ✓ |
-``` json
+``` javascript
 // 采集指標: hk-hsCEI-etf包含沪深ETF-ZYJ -241001
 { key: 10.56, code: 'COMPOSITE_ZYJ:HSCEI_HK_CN_ETF', type: ENum.SYMBOL_TYPE.INDICATE },
 ```
@@ -264,3 +264,4 @@
 | HKEX | 6066 | 0.0012 |
 | HKEX | 6818 | 0.0010 |
 | HKEX | 6936 | 0.0009 |
+
