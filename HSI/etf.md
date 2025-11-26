@@ -13,7 +13,7 @@
 | HK | HKEX:3037 |  |
 | HK | HKEX:7300 | ✓ |
 
-``` json
+``` javascript
 // 采集指標: hk-hsi-etf包含沪深ETF-ZYJ -241001 
 { key: 9.56, code: 'COMPOSITE_ZYJ:HSI_HK_CN_ETF', type: ENum.SYMBOL_TYPE.INDICATE },
 ```
@@ -38,7 +38,7 @@
 | HK | HKEX:3067 | |
 | HK | HKEX:3032 | |
 
-``` json
+``` javascript
 // 采集指標: hk-HSTECH-etf包含沪深ETF-ZYJ -241001 
 { key: 8.56, code: 'COMPOSITE_ZYJ:HSTECH_HK_CN_ETF', type: ENum.SYMBOL_TYPE.INDICATE },
 ```
@@ -78,7 +78,7 @@
 | A | SZSE:159636 | |
 
 
-``` json
+``` javascript
 // 采集指標: HSI-港股通科技股接近科技指数-CNETF—zyj-241101
 { key: 113.56, code: 'COMPOSITE_ZYJ:HSI-GGTIT-HTI-LIKE-ETF', type: ENum.SYMBOL_TYPE.INDICATE },
 ```
@@ -108,7 +108,7 @@
 | A | SZSE:159519 | |
 | A | SSE:513810 | |
 
-``` json
+``` javascript
 // 采集指標: HSI-港股通国企高息接近国企指数-CNETF—zyj-241101
 { key: 115.56, code: 'COMPOSITE_ZYJ:HSI-GGT-HIGH-DIV-HHI-LIKE-ETF', type: ENum.SYMBOL_TYPE.INDICATE },
 ```
@@ -116,7 +116,7 @@
 
 
 ## 其他資料
-``` json
+``` javascript
 
 //恒生   159920   513600  513660  513210
 //
