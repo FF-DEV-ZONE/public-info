@@ -1,15 +1,13 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3812" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3442" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YQHDDsOLslfGtJY1zLIF-77" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="145" y="220" />
-              <mxPoint x="145" y="200" />
-              <mxPoint x="350" y="200" />
+              <mxPoint x="360" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -34,25 +32,37 @@
           <mxGeometry height="750" width="460" y="20" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-9" parent="YQHDDsOLslfGtJY1zLIF-6" style="rounded=0;whiteSpace=wrap;html=1;" value="每一個巿場&lt;br&gt;建立關係例表" vertex="1">
-          <mxGeometry height="60" width="120" x="70" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="460" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-22" edge="1" parent="YQHDDsOLslfGtJY1zLIF-6" source="YQHDDsOLslfGtJY1zLIF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-21" parent="YQHDDsOLslfGtJY1zLIF-6" style="rounded=0;whiteSpace=wrap;html=1;" value="長期關係" vertex="1">
-          <mxGeometry height="60" width="90" x="60" y="200" as="geometry" />
+          <mxGeometry height="60" width="90" x="60" y="290" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-25" edge="1" parent="YQHDDsOLslfGtJY1zLIF-6" source="YQHDDsOLslfGtJY1zLIF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-23" parent="YQHDDsOLslfGtJY1zLIF-6" style="rounded=0;whiteSpace=wrap;html=1;" value="量價相關" vertex="1">
-          <mxGeometry height="60" width="60" x="180" y="160" as="geometry" />
+          <mxGeometry height="60" width="60" x="190" y="160" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-79" edge="1" parent="YQHDDsOLslfGtJY1zLIF-6" source="YQHDDsOLslfGtJY1zLIF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YQHDDsOLslfGtJY1zLIF-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-26" parent="YQHDDsOLslfGtJY1zLIF-6" style="rounded=0;whiteSpace=wrap;html=1;" value="人工輸入" vertex="1">
-          <mxGeometry height="60" width="60" x="280" y="400" as="geometry" />
+          <mxGeometry height="60" width="60" x="30" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-19" edge="1" parent="YQHDDsOLslfGtJY1zLIF-6" source="u62yTT3lsbl58B5bih1E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-18" parent="YQHDDsOLslfGtJY1zLIF-6" style="rounded=0;whiteSpace=wrap;html=1;" value="相關產品的相關產品&lt;div&gt;e.g. hk-IT 也要看日本的IT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="270" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-10" parent="YQHDDsOLslfGtJY1zLIF-6" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="關係例表" vertex="1">
+          <mxGeometry height="100" width="60" x="190" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-12" edge="1" parent="YQHDDsOLslfGtJY1zLIF-6" source="YQHDDsOLslfGtJY1zLIF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="YQHDDsOLslfGtJY1zLIF-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-7" parent="YQHDDsOLslfGtJY1zLIF-5" style="swimlane;startSize=20;html=1;" value="監控產品" vertex="1">
           <mxGeometry height="750" width="390" x="460" y="20" as="geometry" />
@@ -150,24 +160,30 @@
         <mxCell id="u62yTT3lsbl58B5bih1E-1" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="開收盤" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="560" as="geometry" />
         </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-6" edge="1" parent="YQHDDsOLslfGtJY1zLIF-8" source="u62yTT3lsbl58B5bih1E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="u62yTT3lsbl58B5bih1E-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-9" edge="1" parent="YQHDDsOLslfGtJY1zLIF-8" source="u62yTT3lsbl58B5bih1E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="u62yTT3lsbl58B5bih1E-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u62yTT3lsbl58B5bih1E-3" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="多空的凍結" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-16" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-15">
+        <mxCell id="u62yTT3lsbl58B5bih1E-5" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="預浮下個巿場的多空" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-7" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="預測下次巿場的多空" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-16" edge="1" parent="YQHDDsOLslfGtJY1zLIF-5" source="YQHDDsOLslfGtJY1zLIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="760" />
-              <mxPoint x="700" y="284" />
+              <mxPoint x="560" y="700" />
+              <mxPoint x="560" y="224" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-84" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YQHDDsOLslfGtJY1zLIF-83" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="關係例表" vertex="1">
-          <mxGeometry height="100" width="60" x="240" y="710" as="geometry" />
-        </mxCell>
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-12" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="YQHDDsOLslfGtJY1zLIF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-31" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="指數" vertex="1">
@@ -292,8 +308,8 @@
         <mxCell id="YQHDDsOLslfGtJY1zLIF-76" parent="YQHDDsOLslfGtJY1zLIF-69" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry height="26" width="140" y="182" as="geometry" />
         </mxCell>
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-83" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="分成多/空版塊&lt;div&gt;- 跟版塊正相關的產品&lt;/div&gt;&lt;div&gt;- 跟版塊負相關的產品&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="210" y="890" as="geometry" />
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-83" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;align=left;spacingLeft=7;" value="分成多/空版塊&lt;div&gt;- 跟版塊正相關的產品&lt;/div&gt;&lt;div&gt;- 跟版塊負相關的產品&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="220" x="250" y="910" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-85" parent="1" style="whiteSpace=wrap;html=1;align=left;spacingLeft=6;" value="HK 例子：&lt;div&gt;- IT 為多&lt;br&gt;&lt;div&gt;- IT 負相關於白銀&lt;/div&gt;&lt;div&gt;- 芯片正相關於白銀&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- F 為空&lt;/div&gt;&lt;div&gt;- F 正相關於DXY&lt;/div&gt;&lt;div&gt;- F 正相關於BTC&lt;/div&gt;" vertex="1">
           <mxGeometry height="260" width="200" x="-80" y="800" as="geometry" />
