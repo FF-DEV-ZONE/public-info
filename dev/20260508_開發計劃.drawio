@@ -28,10 +28,10 @@
           <mxGeometry height="660" width="550" x="-580" y="70" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-5" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="整體流程" vertex="1">
-          <mxGeometry height="580" width="1470" x="140" y="60" as="geometry" />
+          <mxGeometry height="770" width="1470" x="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-6" parent="YQHDDsOLslfGtJY1zLIF-5" style="swimlane;startSize=20;html=1;" value="建立關係" vertex="1">
-          <mxGeometry height="560" width="460" y="20" as="geometry" />
+          <mxGeometry height="750" width="460" y="20" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-9" parent="YQHDDsOLslfGtJY1zLIF-6" style="rounded=0;whiteSpace=wrap;html=1;" value="每一個巿場&lt;br&gt;建立關係例表" vertex="1">
           <mxGeometry height="60" width="120" x="70" y="410" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry height="60" width="60" x="280" y="400" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-7" parent="YQHDDsOLslfGtJY1zLIF-5" style="swimlane;startSize=20;html=1;" value="監控產品" vertex="1">
-          <mxGeometry height="560" width="390" x="460" y="20" as="geometry" />
+          <mxGeometry height="750" width="390" x="460" y="20" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-82" edge="1" parent="YQHDDsOLslfGtJY1zLIF-7" source="YQHDDsOLslfGtJY1zLIF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YQHDDsOLslfGtJY1zLIF-81" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-8" parent="YQHDDsOLslfGtJY1zLIF-5" style="swimlane;startSize=20;html=1;" value="預測型態" vertex="1">
-          <mxGeometry height="560" width="620" x="850" y="20" as="geometry" />
+          <mxGeometry height="750" width="620" x="850" y="20" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-99" edge="1" parent="YQHDDsOLslfGtJY1zLIF-8" source="YQHDDsOLslfGtJY1zLIF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YQHDDsOLslfGtJY1zLIF-98" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -82,6 +82,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-119" edge="1" parent="YQHDDsOLslfGtJY1zLIF-8" source="YQHDDsOLslfGtJY1zLIF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YQHDDsOLslfGtJY1zLIF-118" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-2" edge="1" parent="YQHDDsOLslfGtJY1zLIF-8" source="YQHDDsOLslfGtJY1zLIF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="u62yTT3lsbl58B5bih1E-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-17" parent="YQHDDsOLslfGtJY1zLIF-8" style="rounded=0;whiteSpace=wrap;html=1;" value="管理行情" vertex="1">
@@ -102,7 +105,7 @@
         <mxCell id="YQHDDsOLslfGtJY1zLIF-107" edge="1" parent="YQHDDsOLslfGtJY1zLIF-8" source="YQHDDsOLslfGtJY1zLIF-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-100" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="預測上漲" vertex="1">
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-100" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;align=center;rounded=0;" value="預測上漲" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="178" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-105" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;align=left;rounded=0;" value="如果沒有上漲為異常" vertex="1">
@@ -136,10 +139,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-120" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="預測下跌" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="440" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-123" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="如沒有下跌為異常" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-4" edge="1" parent="YQHDDsOLslfGtJY1zLIF-8" source="u62yTT3lsbl58B5bih1E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="u62yTT3lsbl58B5bih1E-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-1" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="開收盤" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-3" parent="YQHDDsOLslfGtJY1zLIF-8" style="whiteSpace=wrap;html=1;rounded=0;" value="多空的凍結" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="560" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-16" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-15">
           <mxGeometry relative="1" as="geometry">
