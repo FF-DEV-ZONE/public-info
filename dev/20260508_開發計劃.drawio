@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3442" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3538" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-77" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-23">
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-77" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" target="YQHDDsOLslfGtJY1zLIF-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-78" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-21">
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-78" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" target="YQHDDsOLslfGtJY1zLIF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YQHDDsOLslfGtJY1zLIF-80" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="YQHDDsOLslfGtJY1zLIF-15">
+        <mxCell id="YQHDDsOLslfGtJY1zLIF-80" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" target="YQHDDsOLslfGtJY1zLIF-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="130" />
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="660" width="550" x="-580" y="70" as="geometry" />
+          <mxGeometry height="660" width="550" x="-970" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-5" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="整體流程" vertex="1">
           <mxGeometry height="770" width="1470" x="140" y="60" as="geometry" />
@@ -187,7 +187,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-31" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="指數" vertex="1">
-          <mxGeometry height="312" width="140" x="-560" y="100" as="geometry">
+          <mxGeometry height="312" width="140" x="-950" y="-25" as="geometry">
             <mxRectangle height="30" width="60" x="-120" y="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -225,10 +225,10 @@
           <mxGeometry height="26" width="140" y="286" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="相關數據" vertex="1">
-          <mxGeometry height="20" width="90" x="-110" y="60" as="geometry" />
+          <mxGeometry height="20" width="90" x="-500" y="-65" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-45" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="商品期貨" vertex="1">
-          <mxGeometry height="234" width="140" x="-410" y="100" as="geometry">
+          <mxGeometry height="234" width="140" x="-800" y="-25" as="geometry">
             <mxRectangle height="30" width="60" x="-120" y="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -257,7 +257,7 @@
           <mxGeometry height="26" width="140" y="208" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-57" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="滙率" vertex="1">
-          <mxGeometry height="208" width="140" x="-250" y="100" as="geometry">
+          <mxGeometry height="208" width="140" x="-640" y="-25" as="geometry">
             <mxRectangle height="30" width="60" x="-120" y="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -283,7 +283,7 @@
           <mxGeometry height="26" width="140" y="182" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-69" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="債" vertex="1">
-          <mxGeometry height="208" width="140" x="-250" y="334" as="geometry">
+          <mxGeometry height="208" width="140" x="-640" y="209" as="geometry">
             <mxRectangle height="30" width="60" x="-120" y="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -312,10 +312,10 @@
           <mxGeometry height="100" width="220" x="250" y="910" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-85" parent="1" style="whiteSpace=wrap;html=1;align=left;spacingLeft=6;" value="HK 例子：&lt;div&gt;- IT 為多&lt;br&gt;&lt;div&gt;- IT 負相關於白銀&lt;/div&gt;&lt;div&gt;- 芯片正相關於白銀&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- F 為空&lt;/div&gt;&lt;div&gt;- F 正相關於DXY&lt;/div&gt;&lt;div&gt;- F 正相關於BTC&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="200" x="-80" y="800" as="geometry" />
+          <mxGeometry height="260" width="200" x="-210" y="790" as="geometry" />
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-86" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="大量股" vertex="1">
-          <mxGeometry height="104" width="140" x="-560" y="425" as="geometry">
+          <mxGeometry height="104" width="140" x="-950" y="300" as="geometry">
             <mxRectangle height="30" width="60" x="-120" y="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -327,6 +327,18 @@
         </mxCell>
         <mxCell id="YQHDDsOLslfGtJY1zLIF-97" parent="YQHDDsOLslfGtJY1zLIF-86" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry height="26" width="140" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-23" edge="1" parent="1" source="u62yTT3lsbl58B5bih1E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="u62yTT3lsbl58B5bih1E-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-20" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="定義行情:&lt;div&gt;股, 版塊, 指數...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-21" edge="1" parent="1" source="YQHDDsOLslfGtJY1zLIF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="u62yTT3lsbl58B5bih1E-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u62yTT3lsbl58B5bih1E-22" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="即是股/版塊/指數&lt;div&gt;跟商品定義行情&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="1010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
